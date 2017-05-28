@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/id.ramadani.rxjava.iml" filepath="$PROJECT_DIR$/.idea/modules/id.ramadani.rxjava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/id.ramadani.rxjava_main.iml" filepath="$PROJECT_DIR$/.idea/modules/id.ramadani.rxjava_main.iml" group="id.ramadani.rxjava" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/id.ramadani.rxjava_test.iml" filepath="$PROJECT_DIR$/.idea/modules/id.ramadani.rxjava_test.iml" group="id.ramadani.rxjava" />
+    </modules>
+  </component>
+</project>
